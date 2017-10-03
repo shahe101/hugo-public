@@ -10,8 +10,9 @@ showpagemeta = false
 +++
 
 
-<h3>DevOps Engineer - Bridgewater Associates</h3>
-<h4>Wilton, Connecticut | Sep 2016 - Sep 2017</h4>
+<h3>DevOps Engineer</h3>
+<h4>Bridgewater Associates</h4>
+<h5>Wilton, Connecticut | Sep 2016 - Sep 2017</h5>
 <ul>
 	<li>
 	Worked in the fund’s Research Technology division, helping scale Bridgewater’s next generation cloud platform used to fuel economic research, modeling, and visualization by developing self-healing automations and monitors
