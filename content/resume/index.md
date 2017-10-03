@@ -9,12 +9,12 @@ title = "resume"
 showpagemeta = false
 +++
 
-[Download .pdf](/doc/Papissian_Resume.pdf/)
+[Download .pdf](/Papissian_Resume.pdf/)
 
 <h2>Shahe Papissian</h2>
 E: shahe.papissian@gmail.com <br />
 T: 475-419-5265 <br />
-University of Waterloo - Computer Science '16
+UWaterloo - Computer Science '16
 
 <h3>Skills</h3>
 Angular.js, Ansible, CSS3, C++, C#, HTML5, JavaScript, node.js, Python
