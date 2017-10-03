@@ -9,6 +9,9 @@ title = "resume"
 showpagemeta = false
 +++
 
+<h2>Shahe Papissian</h2>
+E: shahe.papissian@gmail.com
+T: 475-419-5265
 
 <h3>DevOps Engineer</h3>
 <h4>Bridgewater Associates</h4>
@@ -27,8 +30,9 @@ showpagemeta = false
 	</li>
 </ul>
 
-<h3>Software Developer - Mitsubishi Heavy Industries</h3>
-<h4>Toronto, Ontario | May 2015 - Aug 2015</h4>
+<h3>Software Developer</h3>
+<h4>Mitsubishi Heavy Industries</h4>
+<h5>Toronto, Ontario | May 2015 - Aug 2015</h5>
 <ul>
 	<li>
 	Created ERP system applications to automate the company’s resource allocation processes and streamline operations
@@ -40,8 +44,9 @@ showpagemeta = false
 	</li>
 </ul>
 
-<h3>Software Developer - Numeris</h3>
-<h4>Toronto, Ontario | Sep 2014 - Dec 2014</h4>
+<h3>Software Developer</h3>
+<h4>Numeris</h4>
+<h5>Toronto, Ontario | Sep 2014 - Dec 2014</h5>
 <ul>
 	<li>
 	Created the company’s and its subsidiary’s SharePoint-based responsive websites using HTML5, CSS3, JavaScript, C# and ASP.NET
@@ -50,8 +55,9 @@ showpagemeta = false
 	</li>
 </ul>
 
-<h3>Frontend Developer - EXO U</h3>
-<h4>Montreal, Quebec | Jan 2014 - May 2014</h4>
+<h3>Frontend Developer</h3>
+<h4>EXO U</h4>
+<h5>Montreal, Quebec | Jan 2014 - May 2014</h5>
 <ul>
 	<li>
 	Created a workflow management web application for Android and iOS using Angular and Node to make software version control more efficient and effective
@@ -63,8 +69,9 @@ showpagemeta = false
 	</li>
 </ul>
 
-<h3>Technical Consultant - imason inc.</h3>
-<h4>Toronto, Ontario | Sep 2012 - Aug 2013</h4>
+<h3>Technical Consultant</h3>
+<h4>imason inc.</h4>
+<h5>Toronto, Ontario | Sep 2012 - Aug 2013</h5>
 <ul>
 	<li>
 	Created a custom e-commerce Windows 8 application to help the client promote their products and service using C# and ASP.NET
