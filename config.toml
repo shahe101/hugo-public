@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Shahe Papissian"
-intro = "Technologist"
-description = "Previously @Bridgewater Associates and @Mitsubishi Heavy Industries. <br/> Bachelors of Computer Science @University of Waterloo"
+intro = "Software Developer"
+description = "Previously @Bridgewater Associates and @Mitsubishi Heavy Industries.<br/>Bachelor of Computer Science @University of Waterloo."
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
