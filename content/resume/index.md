@@ -9,7 +9,7 @@ title = "resume"
 showpagemeta = false
 +++
 
-[Download .pdf](/resume/Papissian_Resume.pdf/)
+[Download .pdf](/resume/Papissian_Resume.pdf)
 
 <h2>Shahe Papissian</h2>
 E: shahe.papissian@gmail.com <br />
