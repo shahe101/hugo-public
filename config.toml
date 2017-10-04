@@ -29,8 +29,8 @@ dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+description = "Personal Website"
+keywords = "shahe,papissian,bridgewater,mitsubishi,devops,software,engineer,waterloo"
 
 ## Social Accounts
 [params.social]
